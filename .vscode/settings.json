@@ -1,0 +1,10 @@
+{
+    "jupyter.interactiveWindow.cellMarker.default": "",
+    "[html]": {
+        "editor.linkedEditing": true,
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "editor.fontLigatures": false,
+    "editor.fontVariations": false,
+    "task.autoDetect": "off"
+}
